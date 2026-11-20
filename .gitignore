@@ -1,3 +1,7 @@
 .agents/
 .git-template-empty/
+<<<<<<< HEAD
 .env
+=======
+
+>>>>>>> bba2ddabf8229ef5e226a4d97ab9500bd77a656e
